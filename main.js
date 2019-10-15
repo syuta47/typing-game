@@ -6,7 +6,12 @@
     'sky',
     'blue',
     'middle',
-    'set'
+    'set',
+    'gennya',
+    'sapporodaiichi',
+    'natumu',
+    'sinnzyuku',
+    'soccer'
   ];
   let word;
   let loc;
