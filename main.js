@@ -72,7 +72,7 @@
     miss = 0;
     scoreLabel.textContent = score;
     missLabel.textContent = miss;
-    word = words[Math.floor(Math.random() * 5)];
+    word = words[Math.floor(Math.random() * 10)];
 
     target.textContent = word;
     startTime = Date.now();
